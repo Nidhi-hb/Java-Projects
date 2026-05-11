@@ -6,7 +6,7 @@ This repository contains multiple mini projects that demonstrate practical imple
 
  Projects Included
  
- 1 ) Advanced Countdown Timer
+1) Advanced Countdown Timer
 
 A Java-based countdown timer application with enhanced timing functionalities.
 
