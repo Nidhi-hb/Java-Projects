@@ -1,8 +1,8 @@
-# ☕ Java Projects Collection
+#  Java Projects Collection
 
 <div align="center">
 
-### 🚀 Beginner-Friendly Java Applications Built with Core Java Concepts
+###  Beginner-Friendly Java Applications Built with Core Java Concepts
 
 A curated collection of real-world Java console applications designed to strengthen programming fundamentals, object-oriented programming skills, and problem-solving abilities through practical implementation.
 
@@ -10,7 +10,7 @@ A curated collection of real-world Java console applications designed to strengt
 
 ---
 
-# 📌 About This Repository
+#  About This Repository
 
 This repository contains multiple Java mini projects developed to practice and demonstrate core programming concepts using Java.
 Each project focuses on solving real-world problems through clean logic, structured programming, and interactive console-based systems.
@@ -41,7 +41,7 @@ These projects are ideal for:
 
 A smart countdown timer application that allows users to manage and track countdowns efficiently.
 
-### ✨ Features
+###  Features
 
 * Custom countdown duration
 * Live timer updates
@@ -199,14 +199,6 @@ Feel free to:
 * Improve the projects
 * Add new features
 * Create pull requests
-
----
-
-# 📜 License
-
-This repository is open-source and available for learning and educational purposes.
-
----
 
 
 
